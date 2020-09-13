@@ -25,7 +25,7 @@
     "libsignal": "^2.0.1",
     "loki-launcher": "^1.0.18",
     "nconf": "^0.10.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "request": "^2.88.2"
   },
   "devDependencies": {
